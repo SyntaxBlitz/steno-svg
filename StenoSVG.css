@@ -1,0 +1,18 @@
+g.pressed .steno-key {
+    fill: rgb(114, 43, 145);
+}
+
+.steno-key {
+    width: 60px;
+    height: 90px;
+    fill: black;
+    rx: 12px;
+    ry: 12px;
+}
+
+.steno-key-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    text-anchor: middle;
+    fill: white;
+}
